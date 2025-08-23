@@ -7,5 +7,3 @@ I'm a developer focused on systems, infrastructure, and developer tooling—curr
 - Open source developer tools
 - Scalable, reliable software design
 - Community-driven development
-
-Reach out: satyanand6996@gmail.com
