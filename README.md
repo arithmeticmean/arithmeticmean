@@ -14,8 +14,7 @@
 ---
 
 ## About Me
-
-Just a simple guy from India who likes building things, breaking them, and fixing them again. I spend most of my time on the backend and systems side of software — the low-level stuff where the fun is in figuring out how things actually work.
+Hi, I'm Satya. I do backend development, which mostly means I spend my days making computers slightly less slow and taking it personally when they aren't. In my free time I watch anime and reconfigure my Arch setup, both of which are more stable than my sleep schedule. I use Arch, by the way. I was going to mention it eventually.
 
 On GitHub, I contribute to the tools I actually use day to day.
 ---
