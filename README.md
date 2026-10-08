@@ -21,10 +21,7 @@
 
 Just a simple guy from India who likes building things, breaking them, and fixing them again. I spend most of my time on the backend and systems side of software — the low-level stuff where the fun is in figuring out how things actually work.
 
-I mostly build in **C++**, **Go**, and **Python**, and lately I've been getting deeper into **Rust**. On GitHub, I contribute to the tools I actually use day to day.
-
-Outside the terminal, I watch way too much anime, I'm loyal to my waifu, and yes, I use Arch btw.
-
+On GitHub, I contribute to the tools I actually use day to day.
 ---
 
 ## Featured Projects
