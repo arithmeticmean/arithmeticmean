@@ -1,32 +1,13 @@
-## Hey, I'm Satyanand
+Hey, welcome!
 
-Backend & systems engineer who's happiest a few layers below the abstraction.
-I build fast things, read the source before the docs, and keep asking *"but why is it slow?"*
+I'm Satya, a backend and systems developer from India. I'm happiest a few layers below the abstraction — I like fast code, low-level problems, and reading the source before the docs.
 
-Deep into systems, backend, and developer tooling — mostly **Rust**, **Go**, and **C++**.
-I learn by building, break things on purpose, and ship fixes upstream.
+In my own work I mostly build backend and systems software in C++, Go, and Python. Here on GitHub, I contribute to tools I actually use and rely on day to day.
 
----
+Lately I've been diving deeper into Rust and performance-heavy systems — networking, concurrency, the kind of problems where the fun is in figuring out *why* something is slow.
 
-### Tech I reach for
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+When I'm not at the terminal, I'm probably watching anime, tweaking my Arch setup for the hundredth time, or defending my waifu's honor. Yes, I use Arch btw.
 
----
+If you want to reach me, drop a line at [satyanandchoudhary_23me245@dtu.ac.in](mailto:satyanandchoudhary_23me245@dtu.ac.in).
 
-### What I care about
-- **Performance** — making systems do less, faster
-- **Systems & infra** — networking, concurrency, the low-level stuff
-- **Developer tooling** — software that developers rely on daily
-- **Open source** — building in the open, shipping upstream
-
----
-
-### GitHub Stats
-![Satyanand's GitHub stats](https://github-readme-stats.vercel.app/api?username=arithmeticmean&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arithmeticmean&layout=compact&theme=tokyonight&hide_border=true)
+Thanks for reading!
