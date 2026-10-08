@@ -14,9 +14,9 @@
 ---
 
 ## About Me
+
 Hi, I'm Satya. I do backend development, which mostly means I spend my days making computers slightly less slow and taking it personally when they aren't. In my free time I watch anime and reconfigure my Arch setup, both of which are more stable than my sleep schedule. I use Arch, by the way. I was going to mention it eventually.
 
-On GitHub, I contribute to the tools I actually use day to day.
 ---
 
 ## Featured Projects
