@@ -1,9 +1,5 @@
-<div id="header" align="center">
-    <img src="https://avatars.githubusercontent.com/u/YOUR_ID?v=4" width="40%" style="border-radius:50%" />
-</div>
-
 <h1 align="center">Hi, I'm Satya 👋</h1>
-<h3 align="center">Backend & Systems Developer · Open Source · EE @ DTU</h3>
+<h3 align="center">SDE loading... 87% · EE @ DTU</h3>
 
 <p align="center">
     <img src="https://img.shields.io/badge/LinkedIn-satyanand%20choudhary-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
